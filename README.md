@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%202023-02-24%20134653.png.jpg)
+![](images/Screenshot%202023-02-24%20134653.png)
 
 
 ## My process
